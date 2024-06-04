@@ -24,7 +24,7 @@
             </ogc:Filter>
             <se:LineSymbolizer>
               <se:Stroke>
-                <se:SvgParameter name="stroke">#fce5cd</se:SvgParameter>
+                <se:SvgParameter name="stroke">#FFC0CB</se:SvgParameter>
               </se:Stroke>
             </se:LineSymbolizer>
           </se:Rule>
@@ -47,7 +47,7 @@
             </ogc:Filter>
             <se:LineSymbolizer>
               <se:Stroke>
-                <se:SvgParameter name="stroke">#6aa84f</se:SvgParameter>
+                <se:SvgParameter name="stroke">#FFC0CB</se:SvgParameter>
               </se:Stroke>
             </se:LineSymbolizer>
           </se:Rule>
@@ -70,7 +70,7 @@
             </ogc:Filter>
             <se:LineSymbolizer>
               <se:Stroke>
-                <se:SvgParameter name="stroke">#073763</se:SvgParameter>
+                <se:SvgParameter name="stroke">#FFC0CB</se:SvgParameter>
               </se:Stroke>
             </se:LineSymbolizer>
           </se:Rule>
@@ -93,7 +93,7 @@
             </ogc:Filter>
             <se:LineSymbolizer>
               <se:Stroke>
-                <se:SvgParameter name="stroke">#660000</se:SvgParameter>
+                <se:SvgParameter name="stroke">#FFC0CB</se:SvgParameter>
               </se:Stroke>
             </se:LineSymbolizer>
           </se:Rule>
@@ -116,7 +116,7 @@
             </ogc:Filter>
             <se:LineSymbolizer>
               <se:Stroke>
-                <se:SvgParameter name="stroke">#93c47d</se:SvgParameter>
+                <se:SvgParameter name="stroke">#FFC0CB</se:SvgParameter>
               </se:Stroke>
             </se:LineSymbolizer>
           </se:Rule>
